@@ -14,3 +14,19 @@ a {
     font-size: 18px;
     color: #E5E7EB
 }
+
+.subtext {
+    font-size: 20px;
+}
+
+.body1 {
+    background-color: white;
+    color: #882F6
+}
+
+.body2 {
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}

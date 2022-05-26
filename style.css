@@ -10,6 +10,10 @@
     color: #F9FAF8;
 }
 
+body {
+    display: flex;
+    justify-content: center;
+}
 a {
     font-size: 18px;
     color: #E5E7EB
@@ -20,8 +24,8 @@ a {
 }
 
 .body1 {
-    background-color: white;
-    color: #882F6
+    background-color: #E5E7EB;
+    color: #1F2937;
 }
 
 .body2 {
@@ -29,4 +33,9 @@ a {
     font-size: 36px;
     font-style: italic;
     color: #1F2937;
+}
+
+button {
+    background-color: #3882F6;
+    color: #E5E7EB;
 }
